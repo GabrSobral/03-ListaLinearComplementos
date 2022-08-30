@@ -1,3 +1,6 @@
+- Nome: Gabriel Sobral
+- Email: Gabriel.Santos378@fatec.sp.gov.br
+
 # Lista Linear
 
 Faça um fork deste repositorio e implemente a função exlcuirElemento
